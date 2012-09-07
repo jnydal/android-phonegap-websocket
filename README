@@ -1,0 +1,18 @@
+What is the phonegap-websocket project?
+******************
+
+Unfortunally, Android browsers from the earliest to the latest (v4) does not support WebSockets.
+This is a Java client library which basically wraps jWebSocket and binds it with the PhoneGap API.
+
+Dependencies:
+
+jWebSocket client v1.0 Beta 8
+
+How to install:
+***************
+
+Add src content to your java source, and add JS interface to your assets folder.
+
+
+All the best,
+Jørund Nydal
