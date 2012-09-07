@@ -24,7 +24,7 @@
  *  
  */
 
-package com.feliz.support;
+package com.nydal.support;
 
 import java.net.URI;
 

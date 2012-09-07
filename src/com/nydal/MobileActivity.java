@@ -24,7 +24,7 @@
  *  
  */
 
-package com.feliz;
+package com.nydal;
 
 import org.apache.cordova.DroidGap;
 import com.nydal.support.WebSocketFactory;

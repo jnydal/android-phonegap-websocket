@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2012 Jørund Nydal
  *  
  * Permission is hereby granted, free of charge, to any person
@@ -24,7 +24,7 @@
  *  
  */
 
-package com.feliz.support;
+package com.nydal.support;
 
 import java.net.URI;
 import java.util.Random;
